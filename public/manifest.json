@@ -1,0 +1,14 @@
+{
+  "name": "GutGuardian",
+  "description": "GutGuardian is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://95c6f8f6-10b8-47cf-9b8f-4d5200e53b10.vercel.app",
+  "properties": {
+    "app": {
+      "name": "GutGuardian",
+      "description": "GutGuardian is a Base Mini App built with Zara.",
+      "url": "https://95c6f8f6-10b8-47cf-9b8f-4d5200e53b10.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

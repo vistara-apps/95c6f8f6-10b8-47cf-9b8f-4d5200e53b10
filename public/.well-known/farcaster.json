@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "GutGuardian",
-    "homeUrl": "https://gutguardian.app",
+    "homeUrl": "https://app-00e53b10-ksl0.vercel.app",
     "iconUrl": "https://gutguardian.app/icon.png",
     "splashImageUrl": "https://gutguardian.app/splash.png",
     "splashBackgroundColor": "#0052ff",
-    "webhookUrl": "https://api.gutguardian.app/farcaster/webhook",
+    "webhookUrl": "https://app-00e53b10-ksl0.vercel.app/api/webhook",
     "subtitle": "AI-powered gut health insights",
     "description": "Personalized gut health insights powered by AI, onchain achievements, and social challenges on Base",
     "screenshotUrls": [
@@ -20,7 +20,12 @@
       "https://gutguardian.app/screenshot3.png"
     ],
     "primaryCategory": "health",
-    "tags": ["health", "ai", "social", "base"],
+    "tags": [
+      "health",
+      "ai",
+      "social",
+      "base"
+    ],
     "heroImageUrl": "https://gutguardian.app/hero.png",
     "tagline": "Transform your gut health journey",
     "ogTitle": "GutGuardian - Personalized Gut Health Insights",
