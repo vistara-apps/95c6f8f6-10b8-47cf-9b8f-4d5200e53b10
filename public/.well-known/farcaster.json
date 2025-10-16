@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJndXRndWFyZGlhbi5hcHAifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "GutGuardian",
+    "homeUrl": "https://gutguardian.app",
+    "iconUrl": "https://gutguardian.app/icon.png",
+    "splashImageUrl": "https://gutguardian.app/splash.png",
+    "splashBackgroundColor": "#0052ff",
+    "webhookUrl": "https://api.gutguardian.app/farcaster/webhook",
+    "subtitle": "AI-powered gut health insights",
+    "description": "Personalized gut health insights powered by AI, onchain achievements, and social challenges on Base",
+    "screenshotUrls": [
+      "https://gutguardian.app/screenshot1.png",
+      "https://gutguardian.app/screenshot2.png",
+      "https://gutguardian.app/screenshot3.png"
+    ],
+    "primaryCategory": "health",
+    "tags": ["health", "ai", "social", "base"],
+    "heroImageUrl": "https://gutguardian.app/hero.png",
+    "tagline": "Transform your gut health journey",
+    "ogTitle": "GutGuardian - Personalized Gut Health Insights",
+    "ogDescription": "AI-powered gut health insights, onchain achievements, and social challenges",
+    "ogImageUrl": "https://gutguardian.app/og.png"
+  }
+}
